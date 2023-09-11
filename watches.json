@@ -1,0 +1,27 @@
+[
+  {
+    "id": 1,
+    "name": "Apple Watch Series 64",
+    "price": 399.99
+  },
+  {
+    "id": 2,
+    "name": "Samsung Galaxy Watch 5235",
+    "price": 349.99
+  },
+  {
+    "id": 3,
+    "name": "Fitbit Versa 45",
+    "price": 229.95
+  },
+  {
+    "id": 4,
+    "name": "Garmin Fenix 6 Pro",
+    "price": 599.99
+  },
+  {
+    "id": 5,
+    "name": "Amazfit GTS 3",
+    "price": 169.99
+  }
+]
